@@ -1,0 +1,26 @@
+kfjgıretıregkfgkdfghgknbg6,5,120,Emek,8000,5000
+
+Oda sayısı:2,Kat no:1,Alan:65m²,Semt:Altındağ,Kira:2500TL,Depozito:1000TL
+
+Oda sayısı:4
+,Kat no:7
+,Alan:100m²
+,Semt:Mamak
+,Kira:4800TL
+,Depozito:2500TL
+
+Oda sayısı:3,
+Kat no:2,
+Alan:75m²,
+Semt:Sincan,
+Kira:3800TL,
+Depozito:2400TL
+
+EmlakciOdeviApp.KiralikEvler
+Oda Sayısı:2
+ Alan:120
+ Kat No:5
+ Semt:Kızılay
+Kira: 5000TL
+Depozito: 4500TL
+

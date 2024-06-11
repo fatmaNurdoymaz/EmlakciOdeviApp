@@ -1,0 +1,11 @@
+Satılık Evler:
+
+Oda sayısı:4
+
+Kat numarası:8
+
+Alan:120 m²
+
+Semt: Kızılay
+
+Satış fiyatı:1.000.000 TL
